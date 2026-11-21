@@ -1,0 +1,57 @@
+<svg width="1280" height="390" viewBox="0 0 1280 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Manoharan M — Java Backend Developer</title>
+  <desc id="desc">A dark terminal-inspired developer banner with cyan and teal accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="0" x2="1217" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07131C"/>
+      <stop offset="0.55" stop-color="#0B1721"/>
+      <stop offset="1" stop-color="#092A31"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="85" y1="50" x2="1150" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="692" y1="55" x2="1180" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101F2A"/>
+      <stop offset="1" stop-color="#0B2028"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#5EEAD4" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.05 0 0 0 0 0.75 0 0 0 0 0.80 0 0 0 .35 0"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="390" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="390" rx="24" fill="url(#grid)"/>
+  <circle cx="1120" cy="10" r="150" fill="#0D9488" fill-opacity=".14" filter="url(#glow)"/>
+  <circle cx="70" cy="365" r="130" fill="#0891B2" fill-opacity=".12" filter="url(#glow)"/>
+  <path d="M42 42H1238" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2"/>
+  <path d="M42 349H1238" stroke="#5EEAD4" stroke-opacity=".18"/>
+  <text x="70" y="103" fill="#67E8F9" font-family="JetBrains Mono,Consolas,monospace" font-size="15" letter-spacing="3">SOFTWARE ENGINEERING / BACKEND</text>
+  <text x="68" y="173" fill="#F0FDFA" font-family="Arial,Helvetica,sans-serif" font-size="53" font-weight="700" letter-spacing="1">MANOHARAN M</text>
+  <text x="71" y="213" fill="#A5F3FC" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" letter-spacing="2">JAVA BACKEND DEVELOPER</text>
+  <text x="71" y="267" fill="#C5D5DE" font-family="Arial,Helvetica,sans-serif" font-size="17">Engineering solutions. Solving problems.</text>
+  <text x="71" y="293" fill="#C5D5DE" font-family="Arial,Helvetica,sans-serif" font-size="17">Learning continuously.</text>
+  <rect x="70" y="316" width="10" height="10" rx="2" fill="#2DD4BF"/>
+  <text x="91" y="326" fill="#99F6E4" font-family="JetBrains Mono,Consolas,monospace" font-size="13">JAVA  ·  SPRING BOOT  ·  POSTGRESQL  ·  DOCKER</text>
+
+  <rect x="666" y="62" width="548" height="256" rx="16" fill="#22D3EE" fill-opacity=".08" filter="url(#glow)"/>
+  <rect x="670" y="55" width="540" height="270" rx="15" fill="url(#panel)" stroke="#2DD4BF" stroke-opacity=".52" stroke-width="1.3"/>
+  <path d="M670 95H1210" stroke="#5EEAD4" stroke-opacity=".22"/>
+  <circle cx="696" cy="76" r="5" fill="#FB7185"/>
+  <circle cx="716" cy="76" r="5" fill="#FBBF24"/>
+  <circle cx="736" cy="76" r="5" fill="#34D399"/>
+  <text x="762" y="81" fill="#8BA7B4" font-family="JetBrains Mono,Consolas,monospace" font-size="12">manoharan@developer: ~</text>
+  <text x="704" y="132" fill="#5EEAD4" font-family="JetBrains Mono,Consolas,monospace" font-size="15">$ whoami</text>
+  <text x="804" y="132" fill="#E2E8F0" font-family="JetBrains Mono,Consolas,monospace" font-size="15">Manoharan M</text>
+  <text x="704" y="169" fill="#5EEAD4" font-family="JetBrains Mono,Consolas,monospace" font-size="15">$ role</text>
+  <text x="804" y="169" fill="#E2E8F0" font-family="JetBrains Mono,Consolas,monospace" font-size="15">Java Backend Developer</text>
+  <text x="704" y="206" fill="#5EEAD4" font-family="JetBrains Mono,Consolas,monospace" font-size="15">$ focus</text>
+  <text x="804" y="206" fill="#E2E8F0" font-family="JetBrains Mono,Consolas,monospace" font-size="15">Build → Ship → Scale</text>
+  <text x="704" y="243" fill="#5EEAD4" font-family="JetBrains Mono,Consolas,monospace" font-size="15">$ mindset</text>
+  <text x="804" y="243" fill="#E2E8F0" font-family="JetBrains Mono,Consolas,monospace" font-size="15">Learn. Build. Improve.</text>
+  <text x="704" y="287" fill="#2DD4BF" font-family="JetBrains Mono,Consolas,monospace" font-size="14">&gt;</text>
+  <rect x="721" y="275" width="9" height="16" rx="1" fill="#67E8F9" fill-opacity=".9"/>
+</svg>
